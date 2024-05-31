@@ -15,9 +15,7 @@
         justify-content: space-between;
 
 
-        .footer__logo{
 
-        }
         .footer__menus{
             display: flex;
             gap: 88px;
@@ -107,9 +105,7 @@
             justify-content: space-between;
     
     
-            .footer__logo{
-    
-            }
+        
             .footer__menus{
                 display: flex;
                 gap: 40px;
@@ -188,6 +184,7 @@
     }
     
 }
+
 @media (max-width:620px){
 
     .footer__body{
@@ -202,9 +199,7 @@
             justify-content: space-between;
     
     
-            .footer__logo{
-    
-            }
+       
             .footer__menus{
                 display: flex;
                 gap: 40px;
